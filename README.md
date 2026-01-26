@@ -35,7 +35,7 @@ As a researcher aiming for **Edge AI** and **Deep Learning System Optimization**
 ####  Analysis Snapshot (Phase 1 & 2)
 *Below represents my workflow of tracing stack pointers and analyzing register values during runtime:*
 
-![GDB Debugging Process](./02_Bomb_Lab/analysis_screenshots/gdb_process.png)
+
 
 <img width="2471" height="385" alt="image" src="https://github.com/user-attachments/assets/367c3365-d6cc-47e3-9d5a-df4e9f790430" />
 *(Fig 1: Tracing the comparison logic in Phase 1 using GDB register layout)*
