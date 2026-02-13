@@ -1,6 +1,4 @@
-#asm #C 
-
-`Welcome to CMU 15-213!`
+# Bomb lab
 
 This lab is based on Chapter 3 and is designed to help reinforce your knowledge of assembly language. The core content of Chapter 3 focuses on the ALU (Arithmetic Logic Unit), exploring how data is represented in assembly and how it is transferred between registers and memory. It also emphasizes understanding how the stack changes throughout the execution of the Bomb Lab code, which consists of six phases. The following are the preliminary conditions for this lab.
 ## Preliminary Conditions
