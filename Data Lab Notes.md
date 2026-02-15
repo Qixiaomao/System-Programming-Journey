@@ -98,3 +98,10 @@ For negative numbers, you used `x ^ sign` to flip them because finding the numbe
 - If $E > 31$, it won't fit in a 32-bit signed integer (overflow).
     
 - Otherwise, you take the "implied 1" (`1 << 23`), add the fraction bits, and shift them left or right depending on the exponent's value.
+
+
+## Summary
+This lab reinforced my interest in AI infrastructure and System Architecture. It taught me:
+- Branchless Programming : How to write code that avoids "if-else" branches, which is vital for maximizing CPU pipeline efficiency and preventing side-Channel attacks.
+- Architecture Constraints: How to design algorithms that respect the physical liminations of the underlying hardware.
+- Edge Case Resilience: The importance of handling mathematical singularities (NaN, Infinity, $T_{min}$) Which are often the root causes of system failures.
